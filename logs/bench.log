@@ -349,3 +349,102 @@
 2025-12-15 17:12:57,068 INFO /home/mahin/.cache/uv/archive-v0/bGGtV79Sg5AKe-deCTaAJ/bin/bench schedule
 2025-12-15 17:12:57,078 INFO /home/mahin/.cache/uv/archive-v0/bGGtV79Sg5AKe-deCTaAJ/bin/bench serve --port 8000
 2025-12-15 18:00:01,125 INFO /home/mahin/.local/share/uv/tools/frappe-bench/bin/bench --verbose --site all backup
+2025-12-17 10:46:03,018 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 10:46:03,248 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 10:46:03,251 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 10:46:03,252 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 10:46:03,257 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 11:09:26,932 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 11:09:27,141 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 11:09:27,153 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 11:09:27,153 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 11:09:27,153 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 11:51:37,651 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 11:52:38,835 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 11:54:56,682 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 11:54:56,904 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 11:54:56,913 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 11:54:56,914 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 11:54:56,914 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 11:55:46,238 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 11:55:46,479 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 11:55:46,483 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 11:55:46,502 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 11:55:46,510 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 12:00:01,992 INFO /home/mahin/.local/share/uv/tools/frappe-bench/bin/bench --verbose --site all backup
+2025-12-17 12:24:00,945 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 12:24:01,177 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 12:24:01,183 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 12:24:01,185 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 12:24:01,215 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 12:24:30,685 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench --site nw_portal.localhost build
+2025-12-17 12:25:19,310 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 12:25:19,518 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 12:25:19,528 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 12:25:19,553 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 12:25:19,565 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 12:25:37,904 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 12:25:38,134 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 12:25:38,153 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 12:25:38,163 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 12:25:38,165 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 13:13:06,500 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench build
+2025-12-17 13:13:19,922 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench clear-cache
+2025-12-17 13:13:20,772 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench restart
+2025-12-17 13:13:39,590 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench set-config -g developer_mode 1
+2025-12-17 13:13:52,913 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 13:13:53,129 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 13:13:53,144 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 13:13:53,144 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 13:13:53,145 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 13:44:10,319 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 13:44:10,532 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 13:44:10,536 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 13:44:10,538 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 13:44:10,539 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 13:44:20,012 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench clear-cache
+2025-12-17 13:44:22,636 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 13:44:22,856 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 13:44:22,860 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 13:44:22,863 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 13:44:22,869 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 14:28:24,522 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench clear-cache
+2025-12-17 14:28:30,898 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 14:28:31,120 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 14:28:31,123 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 14:28:31,132 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 14:28:31,134 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 16:43:29,330 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench stop
+2025-12-17 16:43:45,853 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 16:46:32,092 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 16:46:32,319 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 16:46:32,328 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 16:46:32,337 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 16:46:32,343 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 16:54:14,077 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 16:54:14,298 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 16:54:14,299 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 16:54:14,302 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 16:54:14,306 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 16:58:37,122 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 16:58:37,349 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 16:58:37,349 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 16:58:37,353 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 16:58:37,361 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 17:19:09,657 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench clear-cache
+2025-12-17 17:19:13,951 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 17:19:14,150 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 17:19:14,154 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 17:19:14,176 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 17:19:14,187 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 18:00:01,567 INFO /home/mahin/.local/share/uv/tools/frappe-bench/bin/bench --verbose --site all backup
+2025-12-17 18:08:28,269 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 18:08:28,498 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 18:08:28,500 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
+2025-12-17 18:08:28,500 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 18:08:28,504 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 18:09:03,261 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench start
+2025-12-17 18:09:03,497 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench schedule
+2025-12-17 18:09:03,506 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench worker
+2025-12-17 18:09:03,512 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench watch
+2025-12-17 18:09:03,513 INFO /home/mahin/.cache/uv/archive-v0/7KpnFXSVPwK7iVchqWnPc/bin/bench serve --port 8000
