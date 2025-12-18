@@ -70,3 +70,54 @@ Form Dict: {'category': 'Noise Complaints', 'severity': 'High', 'description': '
 2025-12-17 14:37:09,861 ERROR frappe New Exception collected in error log
 Site: nw_portal.localhost
 Form Dict: {'doctype': 'Notification', 'name': 'Issue Update', 'cmd': 'frappe.desk.form.load.getdoc'}
+2025-12-18 11:50:24,800 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 11:50:29,622 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 11:50:36,536 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 11:50:38,412 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 11:55:59,661 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 12:00:29,004 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'limit_page_length': 20}
+2025-12-18 12:25:40,669 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'doctype': 'Notification Log', 'filters': '[]', 'fields': "['name']", 'distinct': 'false', 'limit': '1001', 'cmd': 'frappe.desk.reportview.get_count'}
+2025-12-18 12:26:26,043 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'doctype': 'Notification Log', 'filters': '[]', 'fields': "['name]", 'distinct': 'false', 'limit': '1001', 'cmd': 'frappe.desk.reportview.get_count'}
+2025-12-18 12:28:01,932 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'filters': '[]', 'fields': '["name","subject"]', 'distinct': 'false', 'limit': '1001'}
+2025-12-18 12:28:16,236 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'filters': '[]', 'fields': ['name', 'subject'], 'distinct': 'false', 'limit': '1001', 'limit_page_length': '1001'}
+2025-12-18 12:53:55,863 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'filters': '[["for_user","=","Administrator"],["read","=",0]]        ', 'limit_page_length': '0'}
+2025-12-18 12:53:56,970 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'filters': '[["for_user","=","Administrator"],["read","=",0]]        ', 'limit_page_length': '0'}
+2025-12-18 12:53:56,977 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'fields': ['name', 'subject', 'creation', 'read'], 'filters': '[["for_user","=","Administrator"]]        ', 'order_by': 'creation desc        ', 'limit_page_length': '10'}
+2025-12-18 13:05:42,134 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'fields': ['subject', 'creation'], 'filters': '[["for_user","=","Administrator"]]        ', 'order_by': 'creation desc        ', 'limit_page_length': '10'}
+2025-12-18 13:05:47,093 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'fields': ['subject', 'creation'], 'filters': '[["for_user","=","Administrator"]]        ', 'order_by': 'creation desc        ', 'limit_page_length': '10'}
+2025-12-18 13:40:14,160 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'filters': '[]', 'fields': "['name']", 'distinct': 'false', 'limit': '1001'}
+2025-12-18 16:46:11,225 ERROR frappe New Exception collected in error log
+Site: nw_portal.localhost
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Announcement","name":"new-announcement-dxrnvfugyv","__islocal":1,"__unsaved":1,"owner":"Administrator","priority":"Medium","title":"dfsdfsd","description":"sdfsdfsd","valid_till":"2025-12-26 16:39:22"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
