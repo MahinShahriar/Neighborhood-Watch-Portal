@@ -2840,3 +2840,31 @@ ALTER TABLE `tabCommunity Feed Post` ADD COLUMN `amended_from` varchar(140)
 ALTER TABLE `tabCommunity Feed Post` ADD INDEX `amended_from_index`(`amended_from`)
 2025-12-15 15:57:11,363 WARNING database DDL Query made to DB:
 ALTER TABLE `tabCommunity Feed Post` ADD COLUMN `attachments` text
+2025-12-21 15:21:20,593 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` ADD COLUMN `resolved_at` datetime(6)
+2025-12-21 15:22:25,559 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` date
+2025-12-21 15:24:19,147 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 17:37:11,688 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:04:38,595 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:05:52,324 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:06:39,620 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:08:08,179 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:10:10,930 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:11:12,390 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:11:48,975 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 18:20:33,285 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_at` datetime(6)
+2025-12-21 19:07:07,274 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` ADD COLUMN `resolved_time` time(6)
+2025-12-21 19:32:01,632 WARNING database DDL Query made to DB:
+ALTER TABLE `tabIssue Report` MODIFY `resolved_time` decimal(21,9)

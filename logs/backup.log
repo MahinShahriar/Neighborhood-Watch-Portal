@@ -224,3 +224,69 @@ Backup Summary for nwp.localhost at 2025-12-18 17:30:02.262242
 Config  : /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251218_173002-nwp_localhost-site_config_backup.json 127.0B
 Database: /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251218_173002-nwp_localhost-database.sql.gz 227.6KiB
 Backup for Site nwp.localhost has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_92088d2ddecf75af --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _92088d2ddecf75af | /usr/bin/gzip >> ./nw_portal.localhost/private/backups/20251221_120002-nw_portal_localhost-database.sql.gz
+
+Backup Summary for nw_portal.localhost at 2025-12-21 12:00:02.631793
+Config  : /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251221_120002-nw_portal_localhost-site_config_backup.json 248.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251221_120002-nw_portal_localhost-database.sql.gz 519.3KiB
+Backup for Site nw_portal.localhost has been successfully completed
+File ./nwp.localhost/private/backups/20251218_113002-nwp_localhost-database.sql.gz is older than 24 hours
+File ./nwp.localhost/private/backups/20251218_173002-nwp_localhost-database.sql.gz is older than 24 hours
+File ./nwp.localhost/private/backups/20251218_113002-nwp_localhost-site_config_backup.json is older than 24 hours
+File ./nwp.localhost/private/backups/20251217_173002-nwp_localhost-site_config_backup.json is older than 24 hours
+File ./nwp.localhost/private/backups/20251217_173002-nwp_localhost-database.sql.gz is older than 24 hours
+File ./nwp.localhost/private/backups/20251218_173002-nwp_localhost-site_config_backup.json is older than 24 hours
+set -o pipefail; /usr/bin/mariadb-dump --user=_acb3bab315e30799 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _acb3bab315e30799 | /usr/bin/gzip >> ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-database.sql.gz
+
+Backup Summary for nwp.localhost at 2025-12-21 11:30:02.967235
+Config  : /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251221_113002-nwp_localhost-site_config_backup.json 127.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251221_113002-nwp_localhost-database.sql.gz 227.6KiB
+Backup for Site nwp.localhost has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_92088d2ddecf75af --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _92088d2ddecf75af | /usr/bin/gzip >> ./nw_portal.localhost/private/backups/20251221_180001-nw_portal_localhost-database.sql.gz
+
+Backup Summary for nw_portal.localhost at 2025-12-21 18:00:02.243134
+Config  : /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251221_180001-nw_portal_localhost-site_config_backup.json 248.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251221_180001-nw_portal_localhost-database.sql.gz 553.2KiB
+Backup for Site nw_portal.localhost has been successfully completed
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-site_config_backup.json is recent
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-database.sql.gz is recent
+set -o pipefail; /usr/bin/mariadb-dump --user=_acb3bab315e30799 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _acb3bab315e30799 | /usr/bin/gzip >> ./nwp.localhost/private/backups/20251221_173002-nwp_localhost-database.sql.gz
+
+Backup Summary for nwp.localhost at 2025-12-21 17:30:02.485456
+Config  : /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251221_173002-nwp_localhost-site_config_backup.json 127.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251221_173002-nwp_localhost-database.sql.gz 227.6KiB
+Backup for Site nwp.localhost has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_92088d2ddecf75af --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _92088d2ddecf75af | /usr/bin/gzip >> ./nw_portal.localhost/private/backups/20251222_120001-nw_portal_localhost-database.sql.gz
+
+Backup Summary for nw_portal.localhost at 2025-12-22 12:00:01.823725
+Config  : /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251222_120001-nw_portal_localhost-site_config_backup.json 248.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251222_120001-nw_portal_localhost-database.sql.gz 608.8KiB
+Backup for Site nw_portal.localhost has been successfully completed
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-site_config_backup.json is recent
+File ./nwp.localhost/private/backups/20251221_173002-nwp_localhost-site_config_backup.json is recent
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-database.sql.gz is recent
+File ./nwp.localhost/private/backups/20251221_173002-nwp_localhost-database.sql.gz is recent
+set -o pipefail; /usr/bin/mariadb-dump --user=_acb3bab315e30799 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _acb3bab315e30799 | /usr/bin/gzip >> ./nwp.localhost/private/backups/20251222_113001-nwp_localhost-database.sql.gz
+
+Backup Summary for nwp.localhost at 2025-12-22 11:30:02.174228
+Config  : /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251222_113001-nwp_localhost-site_config_backup.json 127.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251222_113001-nwp_localhost-database.sql.gz 227.6KiB
+Backup for Site nwp.localhost has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_92088d2ddecf75af --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _92088d2ddecf75af | /usr/bin/gzip >> ./nw_portal.localhost/private/backups/20251222_180002-nw_portal_localhost-database.sql.gz
+
+Backup Summary for nw_portal.localhost at 2025-12-22 18:00:02.481871
+Config  : /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251222_180002-nw_portal_localhost-site_config_backup.json 248.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nw_portal.localhost/private/backups/20251222_180002-nw_portal_localhost-database.sql.gz 616.0KiB
+Backup for Site nw_portal.localhost has been successfully completed
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-site_config_backup.json is older than 24 hours
+File ./nwp.localhost/private/backups/20251221_173002-nwp_localhost-site_config_backup.json is recent
+File ./nwp.localhost/private/backups/20251221_113002-nwp_localhost-database.sql.gz is older than 24 hours
+File ./nwp.localhost/private/backups/20251222_113001-nwp_localhost-database.sql.gz is recent
+File ./nwp.localhost/private/backups/20251222_113001-nwp_localhost-site_config_backup.json is recent
+File ./nwp.localhost/private/backups/20251221_173002-nwp_localhost-database.sql.gz is older than 24 hours
+set -o pipefail; /usr/bin/mariadb-dump --user=_acb3bab315e30799 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _acb3bab315e30799 | /usr/bin/gzip >> ./nwp.localhost/private/backups/20251222_173002-nwp_localhost-database.sql.gz
+
+Backup Summary for nwp.localhost at 2025-12-22 17:30:02.790323
+Config  : /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251222_173002-nwp_localhost-site_config_backup.json 127.0B
+Database: /home/mahin/Documents/Projects/community_management/sites/nwp.localhost/private/backups/20251222_173002-nwp_localhost-database.sql.gz 227.6KiB
+Backup for Site nwp.localhost has been successfully completed
